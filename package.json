@@ -1,0 +1,24 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sysuzhyupeng/Promise.git"
+  },
+  "author": "sysuzhyupeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sysuzhyupeng/Promise/issues"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.29.0",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.5.1",
+    "webpack-hot-middleware": "^2.18.2"
+  }
+}
