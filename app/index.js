@@ -175,9 +175,9 @@ var a = new Promise(function(resolve, reject) { // 我们实现的Promise
 		resolve(42);
 		console.log(42);
 	}, 2000)
-}).then(function() {
+}).then(function(data) {
 	setTimeout(function() {
-		console.log('43')
+		console.log(data)
 		return '43';
 	}, 2000);
 })
