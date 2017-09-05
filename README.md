@@ -1,2 +1,2 @@
 # Promise
-create a own Promise 
+create a basic Promise 
